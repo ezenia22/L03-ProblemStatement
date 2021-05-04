@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="enter_pax">Enter Pax</string>
+    <string name="gst">GST</string>
+    <string name="splt">Split</string>
+    <string name="rst">Reset</string>
+    <string name="ttlBill">Total Bill: $</string>
+    <string name="eachPay">Each Pays: $</string>
+    <string name="turnOnsvs">SVS</string>
+</resources>
